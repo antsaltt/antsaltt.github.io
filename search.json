@@ -1,1 +1,1 @@
-[]
+[{"title":"Hello Blog","url":"/2025/06/07/Hello-Blog/","content":"npx hexo new “title”\nnpx hexo clean\nnpx hexo g\nnpx hexo d\n"}]
